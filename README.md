@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
+Student | Preparing for 42 Piscine | Currently taking CS50x | Twitch Partner Steamer
 I am a developer who took my first steps in PHP and Symfony.  
 Today, I am looking to expand my skill set.  
-I am also preparing for the 42 Piscine in July 2025.
 
 ## ✉️ Contact / Author
 
